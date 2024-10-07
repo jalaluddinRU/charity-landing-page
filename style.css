@@ -21,10 +21,27 @@ h1 {
     text-transform: uppercase;
 }
 
+
+h3 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    text-transform: capitalize;
+}
+
+h2, h3 {
+    color: #333333;
+}
+
 a {
     outline: none !important;
     text-decoration: none !important;
   }
+
+.section-padding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
   
 @media (min-width:768px)
 {
@@ -87,4 +104,20 @@ body > div.head-banner > div > p
     margin-top: 30px;
 }
 
+.various-causes-heading
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
 
+.various-causes-col
+{
+    text-align: center;
+    
+}
+
+.various-causes-col>.col-4>h3
+{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
