@@ -1,0 +1,90 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Open Sans', sans-serif, Arial, Verdana, 'Trebuchet MS';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+a {
+    outline: none !important;
+    text-decoration: none !important;
+  }
+  
+@media (min-width:768px)
+{
+    #navbarNav
+    {
+        display: flex;
+        justify-content: end;
+    }
+}
+.navbar
+{
+    background-color: rgb(247, 247, 247);
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+
+#navbarNav
+{
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 7px 0;
+    text-transform: uppercase;
+}
+
+.head-banner
+{
+    background-image: url(./image/1500x780x1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; 
+}
+.head-banner-text
+{
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(254 165 1 / 60%);
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 4rem;
+}
+
+body > div.head-banner > div > p
+{
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 28px;
+    text-transform: uppercase;
+}
+
+.head-banner-btn
+{
+    color: #ffffff;
+    background-color: #c13a0d;
+    border-radius: 0%;
+    margin-top: 30px;
+}
+
+
