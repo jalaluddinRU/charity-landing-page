@@ -179,3 +179,58 @@ body > div.head-banner > div > p
 
 /* various causes section end */
 
+/* who care section start */
+.who-care-section 
+{
+    background-color: #333333;
+}
+
+.who-care-img
+{
+    height: 535px;
+}
+
+.who-care-text-col
+{
+    padding: 80px 90px 80px 40px;
+}
+
+.who-care-sub-heading, .who-care-heading, .who-care-paragraph, .who-care-paragraph-2, .who-care-btn
+{
+    color: #ffffff;
+}
+
+.who-care-sub-heading
+{
+    margin-bottom: 0;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.who-care-heading
+{
+    padding: 0;
+    margin: 5px 0 5px 0;
+
+}
+
+.who-care-divider
+{
+    padding-bottom: 20px;
+}
+
+.who-care-paragraph-2
+{
+    font-size: 14px;
+    padding: 20px 0 30px 0;
+    margin-bottom: 0px;
+}
+
+.who-care-btn
+{
+    background-color: #fea501;
+    padding: 10px 20px;
+    font-family: inherit;
+    font-weight: 600;
+}
