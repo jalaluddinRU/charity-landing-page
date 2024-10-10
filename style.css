@@ -1,9 +1,4 @@
-*
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 
 body
 {
@@ -14,6 +9,7 @@ body
     font-weight: 400;
     line-height: 24px;
 }
+
 
 h1 {
     font-size: 40px;
@@ -104,6 +100,8 @@ body > div.head-banner > div > p
     margin-top: 30px;
 }
 
+/* Various Causes section */
+
 .various-causes-heading
 {
     text-align: center;
@@ -121,3 +119,63 @@ body > div.head-banner > div > p
     margin-top: 20px;
     margin-bottom: 10px;
 }
+
+.causes-paragraph
+{
+    font-size: 14px;
+    color: #666666;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    margin-bottom: none;
+}
+
+.progress-value
+{
+    text-align: right;
+    color: #c13a0d;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.progress-bar
+{
+    height: 3px;
+    width: 100%;
+    background-color: #cccccc;
+}
+
+.progress-status
+{
+    height: 3px;
+    width: 57%;
+    background-color: #fea501;
+}
+
+.progress-money
+{
+    color: #666666;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding-top: 5px;
+}
+
+.progress-status-2
+{
+    height: 3px;
+    width: 72%;
+    background-color: #fea501;
+}
+
+.progress-status-3
+{
+    height: 3px;
+    width: 41%;
+    background-color: #fea501;
+}
+
+/* various causes section end */
+
