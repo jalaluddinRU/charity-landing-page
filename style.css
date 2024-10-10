@@ -1,4 +1,5 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 body
 {
@@ -27,6 +28,8 @@ h3 {
 
 h2, h3 {
     color: #333333;
+    font-family: 'Raleway', serif;
+    
 }
 
 a {
@@ -234,3 +237,18 @@ body > div.head-banner > div > p
     font-family: inherit;
     font-weight: 600;
 }
+/* Who Care Styling end */
+
+/* Our Help Styling */
+.our-helps-heading
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.our-help-row
+{
+    margin-bottom:30px;
+}
+
+/* Our Help Styling END*/
