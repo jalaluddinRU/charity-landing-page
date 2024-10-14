@@ -419,3 +419,59 @@ body > div.head-banner > div > p
 
 /* Our Involvements Style is Exactly as Camps we done section so I used the same classes for both the sections  */
 
+/* Orphan Children Section Start */
+.orphan-children-section
+{
+    background-image: url(./image/1500x700.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.orphan-container
+{
+    width: 1170px;
+}
+
+.orphan-content
+{
+    background-color: #fea501;
+    padding: 40px 10px 60px 10px;
+    text-align: center;
+}
+
+.orphan-content>h2
+{
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
+.orphan-content>p
+{
+    font-weight: 600;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    width: 70%;
+    color: #ffffff;
+}
+
+.orphan-content>a
+{
+    background-color: #ffffff;
+    border-radius: 0px;
+    color: #fea501;
+    font-weight: 600;
+    padding: 10px 20px;
+    letter-spacing: 0.5px;
+}
+
+.orphan-content>a:hover
+{
+    background-color: white;
+    color: #fea501;
+    transition: none;
+    transform: none;
+}
+/* Orphan Children Section END */
