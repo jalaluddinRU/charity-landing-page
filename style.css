@@ -297,6 +297,7 @@ body > div.head-banner > div > p
 .camps-row > p
 {
     padding-bottom: 20px;
+    color: #666666;
 }
 
 .camps-row > a
@@ -304,6 +305,9 @@ body > div.head-banner > div > p
     padding: 10px 20px;
     background-color:#fea501;
     color: #ffffff;
+    font-family: inherit;
+    font-weight: 600;
+    letter-spacing: 0.5px;
 }
 
 /* camps we done end */
@@ -412,3 +416,6 @@ body > div.head-banner > div > p
     letter-spacing: 0.5px;
 }
 /* Donators Section END */
+
+/* Our Involvements Style is Exactly as Camps we done section so I used the same classes for both the sections  */
+
