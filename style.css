@@ -55,8 +55,27 @@ a {
     background-color: rgb(247, 247, 247);
     padding-left: 150px;
     padding-right: 150px;
+    padding: 0px;
     
 }
+.nav-link
+{
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+
+.nav-container
+{
+    max-width: 1140px;
+    padding: 5px;
+}
+
+.nav-list
+{
+    padding-top: 21px;
+}
+
 
 #navbarNav
 {
@@ -252,3 +271,144 @@ body > div.head-banner > div > p
 }
 
 /* Our Help Styling END*/
+
+/* camps we done start*/
+.camps-done
+{
+    background-color: #f7f7f7;
+}
+
+.camps-done-container
+{
+    max-width: 1140px;
+}
+
+.camps-head
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.camps-row > h3
+{
+    margin: 20px 0px 10px 0px;
+}
+
+.camps-row > p
+{
+    padding-bottom: 20px;
+}
+
+.camps-row > a
+{
+    padding: 10px 20px;
+    background-color:#fea501;
+    color: #ffffff;
+}
+
+/* camps we done end */
+
+/* Donators Section Start */
+.donators-section
+{
+    background-color: #fea501;
+}
+
+.donators-container
+{
+    width: 1170px;
+}
+
+.donators-head
+{
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.donators-head>h2
+{
+    color: #ffffff;
+}
+
+.donators-row-1
+{
+    margin: 0px 285px;
+    padding-bottom: 40px;
+}
+
+.donators-row-1>.col-4
+{
+    padding: 0px 15px;
+}
+
+.donators-row-1>.col-4>ul
+{
+    padding:0;
+    margin-bottom: 10px;
+}
+
+.donators-row-1>.col-4>ul>li
+{
+    display: table-cell;
+    list-style: none;
+}
+
+.donators-row-1>.col-4>ul>li>img
+{
+    padding-right: 10px;
+}
+
+.donators-row-1>.col-4>ul>li>p
+{
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.donators-image-row
+{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.donators-image-col
+{ 
+    width: 25%;
+    padding: 0px 15px;
+}
+
+.donators-profile-col
+{
+    border: 5px solid #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+.donators-profile-col>p
+{
+    margin-bottom: 0px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+
+.donators-btn
+{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.donators-btn>a
+{
+    background-color: #ffffff;
+    color: #fea501;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+/* Donators Section END */
