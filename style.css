@@ -37,6 +37,11 @@ a {
     text-decoration: none !important;
   }
 
+.container
+{
+    width: 1170px;
+}  
+
 .section-padding {
     padding-top: 80px;
     padding-bottom: 80px;
@@ -136,6 +141,11 @@ body > div.head-banner > div > p
     
 }
 
+.var-cause-col
+{
+    padding: 0px 15px;
+}
+
 .various-causes-col>.col-4>h3
 {
     margin-top: 20px;
@@ -153,6 +163,8 @@ body > div.head-banner > div > p
     margin-inline-end: 0px;
     unicode-bidi: isolate;
     margin-bottom: none;
+    font-weight: 400;
+    line-height: 24px;
 }
 
 .progress-value
@@ -210,6 +222,12 @@ body > div.head-banner > div > p
 .who-care-img
 {
     height: 535px;
+    width: 100%;
+}
+
+.who-care-img-col
+{
+    padding: 0px;
 }
 
 .who-care-text-col
@@ -475,3 +493,27 @@ body > div.head-banner > div > p
     transform: none;
 }
 /* Orphan Children Section END */
+
+/* gallery section */
+.gallery-head
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.gallery-first-row
+{
+    padding-bottom: 30px;
+}
+
+.gallery-2nd-row , .gallery-first-row
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.gallery-img
+{
+    border: 2px solid ;
+}
+/* gallery section */
