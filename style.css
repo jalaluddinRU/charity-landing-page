@@ -782,3 +782,45 @@ body > div.head-banner > div > p
     letter-spacing: 1px;
 }
 /* Testimonial Section */
+
+/* Moving with Section */
+.moving-with-section
+{
+    background-color: #f7f7f7;
+}
+
+.moving-with-head
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.moving-row
+{
+    background-color: rgba(254, 165, 1, 0.6);
+}
+
+.moving-col-color
+{
+    background-color: rgba(254, 165, 1, 0.2);
+}
+
+.moving-col
+{
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.moving-col>h3
+{
+    margin: 20px 0px 10px 0px;
+}
+
+.moving-col>p
+{
+    color: #666666;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0px;
+}
+/* Moving with Section */
