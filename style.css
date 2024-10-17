@@ -824,3 +824,51 @@ body > div.head-banner > div > p
     margin: 0px;
 }
 /* Moving with Section */
+
+/* Wonderful Day Section */
+.wonderful-col
+{
+    padding: 0px 15px;
+}
+.wonderful-img
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.wonderful-btn
+{
+    font-size: 14px;
+    border-radius: 0px;
+    color: #ffffff;
+    background-color: #fea501;
+    padding: 10px 20px;
+    font-family: inherit;
+    font-weight: 600; 
+}
+
+.wonderful-btn:hover
+{
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #fea501;
+    padding: 10px 20px;
+    font-family: inherit;
+    font-weight: 600;
+    transition: none;
+    transform: none;
+}
+
+.wonderful-col>h3
+{
+    margin: 20px 0px 10px 0px;
+}
+
+.wonderful-col>p
+{
+    color: #666666;
+    padding: 10px 0px 20px 0px;
+    margin: 0px;
+}
+/* Wonderful Day Section */
