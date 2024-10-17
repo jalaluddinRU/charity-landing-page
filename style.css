@@ -649,3 +649,79 @@ body > div.head-banner > div > p
     margin: 0 auto;
 }
 /* Best Moment In Our Life Section */
+
+/* Upcoming Events Section */
+.events-head
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.events-col
+{
+    padding: 0px 15px;
+}
+
+.events-img
+{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.events-row-2
+{
+    margin-top: 40px;
+}
+
+.events-col-paragraph-2, .events-col-paragraph-1
+{
+    color: #666666;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.events-col-heading
+{
+    margin: 20px 0px 10px 0px;
+}
+
+.events-li-icon
+{
+    margin-right: 10px;
+}
+
+.events-col-li
+{
+    list-style: none;
+    display: table-cell;
+    padding-right: 10px;
+}
+
+.events-time-row>.col-6>ul
+{
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+}
+
+.events-col-li-place
+{
+    color: #666666;
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 0;
+    font-weight: 400;
+}
+
+.events-col-li-date
+{
+    color: #666666;
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 0;
+    font-weight: 600;
+}
+
+
+/* Upcoming Events Section */
