@@ -575,3 +575,51 @@ body > div.head-banner > div > p
     margin: 0;
 }
 /* Latest News Section */
+
+/* Volunteers Section */
+.volunteers-head
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.volunteers-row-1
+{
+    margin-bottom: 40px;
+}
+
+.volunteers-col
+{
+    padding: 0px 15px;
+}
+
+.volunteers-col>img
+{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.volunteers-col-content
+{
+    text-align: center;
+}
+
+.volunteers-col-li
+{
+    list-style: none;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.volunteers-col-heading
+{
+    margin: 20px 0px 10px 0px;
+}
+
+.volunteers-col-paragraph
+{
+    padding: 10px 0px 20px 0px;
+    color: #666666;
+}
+/* Volunteers Section */
