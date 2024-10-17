@@ -725,3 +725,60 @@ body > div.head-banner > div > p
 
 
 /* Upcoming Events Section */
+
+/* Testimonial Section */
+.testimonial-section
+{
+    background-color: #fea501;
+}
+
+.testimonial-head
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.testimonial-head>h2
+{
+    color: #ffffff;
+}
+
+.testimonial-content
+{
+    text-align: center;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.testimonial-content>img
+{
+    padding-bottom: 20px;
+}
+
+.testimonial-content>p
+{
+    color: #ffffff;
+    margin: 0 auto;
+}
+
+.testimonial-border
+{
+    width: 40%;
+    border-bottom: 1px solid #ffffff;
+    padding-top: 20px;
+    margin: 0 auto;
+}
+
+.testimonial-name
+{
+    padding-top: 15px;
+    letter-spacing: 1px;
+}
+
+.testimonial-name > span
+{
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+/* Testimonial Section */
