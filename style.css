@@ -3,8 +3,8 @@
 
 body
 {
-    height: 100vh;
-    width: 100vw;
+    /* height: 100vh; */
+    /* width: 100vw; */
     font-family: 'Open Sans', sans-serif, Arial, Verdana, 'Trebuchet MS';
     font-size: 14px;
     font-weight: 400;
@@ -1000,3 +1000,67 @@ body > div.head-banner > div > p
     height: auto;
 }
 /* single image section */
+
+/* Footer Section */
+.footer-div
+{
+    text-align: center;
+}
+
+.contact-row
+{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.footer-icon-text
+{
+    width: 80%;
+    margin: 0 auto;
+    letter-spacing: 1px;
+    padding-top: 15px;
+    color: #666666;
+}
+
+.footer-icon-padding
+{
+    padding: 0px 15px;
+}
+
+.footer-seperator
+{
+    border: 1px solid #dddddd;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.footer-social-icon-ul
+{
+    padding: 0px;
+    margin-bottom: 10px;
+}
+
+.footer-social-icon-li
+{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 5px;
+}
+
+.footer-social-icon-img
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.footer-copyright-text
+{
+    width: 80%;
+    margin: 0 auto;
+    color: #666666;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+/* Footer Section */
