@@ -872,3 +872,97 @@ body > div.head-banner > div > p
     margin: 0px;
 }
 /* Wonderful Day Section */
+
+/* happiest Day Section */
+.happiest-moment-section
+{
+    background-color: #f7f7f7;
+}
+
+.happiest-col
+{
+    padding: 0px 15px;
+}
+.happiest-img
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.happiest-btn
+{
+    font-size: 14px;
+    border-radius: 0px;
+    color: #ffffff;
+    background-color: #fea501;
+    padding: 10px 20px;
+    font-family: inherit;
+    font-weight: 600; 
+}
+
+.happiest-btn:hover
+{
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #fea501;
+    padding: 10px 20px;
+    font-family: inherit;
+    font-weight: 600;
+    transition: none;
+    transform: none;
+}
+
+.happiest-col>h3
+{
+    margin: 20px 0px 10px 0px;
+}
+
+.happiest-col>p
+{
+    color: #666666;
+    padding: 10px 0px 20px 0px;
+    margin: 0px;
+}
+/* happiest Day Section */
+
+/* faq Section */
+.faq-head
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.faq-col
+{
+    padding: 0px 15px;
+}
+
+.faq-li
+{
+    padding-right: 15px;
+    display: table-cell;
+    list-style: none;
+    letter-spacing: 1px;
+}
+
+.faq-col > .col-12 > ul
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+.faq-icon 
+{
+    padding-bottom: 10px;
+}
+
+.faq-heading
+{
+    margin: 20px 0px 10px 0px;
+}
+
+.faq-col > .col-12 > p
+{
+    margin: 0px;
+}
+/* faq Section */
