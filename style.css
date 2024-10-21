@@ -966,3 +966,37 @@ body > div.head-banner > div > p
     margin: 0px;
 }
 /* faq Section */
+
+/* Our Beloved Sponsers Head */
+.sponsers-head
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.sponsers-img-col
+{
+    padding: 0px 15px;
+}
+
+.sponsers-img
+{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+/* Our Beloved Sponsers Head */
+
+/* single image section */
+.single-image-section
+{
+    background-color: #f7f7f7;
+}
+
+.single-img
+{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+/* single image section */
