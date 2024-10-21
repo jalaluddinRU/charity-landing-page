@@ -91,6 +91,12 @@ a {
     text-transform: uppercase;
 }
 
+.nav-item > a:hover
+{
+    color: #fea501 !important;	
+	border-bottom: 1px dotted #fea501;  
+}
+
 .head-banner
 {
     background-image: url(./image/1500x780x1.webp);
